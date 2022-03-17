@@ -12,13 +12,8 @@ const thaisaVieira = {
         frontEnd: {
             websites: ["HTML", "CSS", "JS"],
         },
-        backend: {
-            javascript: ["Node"]
-        },
-        python: ["DjangoFramework"],
-        },
-    currentFocus: "Building automation to ease business opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Building my own portfolio website",
+    funFact: "My cat enjoys to write codes with me somethimes."
 };
 ```
 <div align="center">
