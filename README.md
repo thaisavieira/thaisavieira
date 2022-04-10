@@ -6,13 +6,12 @@
 const thaisaVieira = {
     pronouns: "She" | "Her",
     loves:["cats","tea"]
-    code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "automation"],
+    code: ["Javascript"],
+    askMeAbout: ["web dev"],
     technologies: {
         frontEnd: {
             websites: ["HTML", "CSS", "JS"],
         },
-    currentFocus: "Building my own portfolio website",
     funFact: "My cat enjoys to write codes with me somethimes."
 };
 ```
@@ -24,8 +23,7 @@ const thaisaVieira = {
 <div style="display: inline_block"><br>
   <img align="center" alt="Thai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Thai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
- <img align="center" alt="Thai-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  <img align="center" alt="Thai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+ <img align="center" alt="Thai-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
  <img align="right" alt="Thai-GIF" height="150" style=border-radius:50px; src="https://raw.githubusercontent.com/thaisavieira/thaisavieira/main/Thai.gif">
 </div>
 <div>
