@@ -4,15 +4,14 @@
  
 ```
 const thaisaVieira = {
-    pronouns: "She" | "Her",
-    loves:["cats","tea"]
-    code: ["Javascript"],
+    pronouns: ["she","her"],
+    loves:["cats","tea"],
+    codeLanguage: ["Javascript"],
     askMeAbout: ["web dev"],
     technologies: {
-        frontEnd: {
-            websites: ["HTML", "CSS", "JS"],
+            frontEnd: ["HTML", "CSS", "JS"],
         },
-    funFact: "My cat enjoys to write codes with me somethimes."
+    funFact: ["My cat enjoys to write codes with me somethimes."],
 };
 ```
 <div align="center">
