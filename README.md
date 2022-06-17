@@ -12,9 +12,9 @@ I'm a programming student who lives in Brazil and I love making and designing we
 </ul>
 
  <h2> About me: </h2>
-'''
-// tools_I_use 
-class thaisaVieira { 
+
+``` JavaScript
+class thaisaVieira {       
   const myTools = {  
     "ProgramingLanguage" : {"Javascript"},
     "OtherLanguages" : {"HTML", "CSS"},
@@ -23,28 +23,24 @@ class thaisaVieira {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp"}
   };
 }
-'''
-
+```
 
 <h2>How to find my works</h2>
-<ul>
- <li>Portfolio</li>
- <li>CodePen</li>
- <li>DEV Community</li>
-</ul>
+● [Portifolio](https://thaisavieira.github.io/thaisa-tech/) <br>
+● [CodePen](https://codepen.io/thaisavieira) <br>
+● [DEV Community](https://dev.to/thaisavieira) <br>
 
 <h2>How to reach me?</h2>
-<ul>
- <li>LinkedIn</li>
- <li>E-mail</li>
-</ul>
+ ● [LinkedIn](https://www.linkedin.com/in/tha%C3%ADsa-de-jesus-vieira/) <br>
+ ● [E-mail](mailto:thaisavieira.dev@outlook.com.com	) <br>
+
 <hr>
 <h3> I am looking forward to absorb knowledge,gain experience, collaborate and build amazing products for the World!</h3>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&show_icons=true&theme=bear](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&show_icons=true&&layout=compact&theme=bear))" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=bear](https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=bear)" />
-</a>
 
+<div>
+ <center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&theme=bear" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&theme=bear" />
+ </center>
+</div>
