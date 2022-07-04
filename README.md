@@ -26,14 +26,19 @@ class thaisaVieira {
 ```
 
 <h2>How to find my works</h2>
-● [Portifolio](https://thaisavieira.github.io/thaisa-tech/) <br>
-● [CodePen](https://codepen.io/thaisavieira) <br>
-● [DEV Community](https://dev.to/thaisavieira) <br>
+<ul>
+<li> <a href = "https://thaisavieira.github.io/thaisa-tech/"> Portfolio </a> </li>
+<li> <a href = "https://codepen.io/thaisavieira"> codePen </a> </li>
+<li> <a href = "https://dev.to/thaisavieira"> DEV Community </a> </li>
+</ul>
+
 
 <h2>How to reach me?</h2>
- ● [LinkedIn](https://www.linkedin.com/in/tha%C3%ADsa-de-jesus-vieira/) <br>
- ● [E-mail](mailto:thaisavieira.dev@outlook.com.com	) <br>
-
+<ul>
+ <li> <a href = "www.linkedin.com/in/thaisa-de-jesus-vieira"> LinkedIn </a> </li>
+ <li> <a href = "mailto:thaisavieira.dev@outlook.com.com"> E-mail </a> ,\
+ </ul>
+ 
 <hr>
 <h3> I am looking forward to absorb knowledge,gain experience, collaborate and build amazing products for the World!</h3>
 <hr>
