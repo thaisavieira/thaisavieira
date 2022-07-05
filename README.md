@@ -36,7 +36,7 @@ class thaisaVieira {
 <h2>How to reach me?</h2>
 <ul>
  <li> <a href = "www.linkedin.com/in/thaisa-de-jesus-vieira"> LinkedIn </a> </li>
- <li> <a href = "mailto:thaisavieira.dev@outlook.com.com"> E-mail </a> ,\
+ <li> <a href = "mailto:thaisavieira.dev@outlook.com.com"> E-mail </a> </li>
  </ul>
  
 <hr>
