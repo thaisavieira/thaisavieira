@@ -1,13 +1,12 @@
  <h2> Hello, world! </h2>
 
 
-I'm a programming student who lives in Brazil and I love making and designing webpages. For me, it's fun to code something that anyone on the web can easily see using any device. Also, I like to challenge myself with JavaScript in websites like CodeWars, solving complex code problems is helping me to improve my skills. By the way, I'm currently learning about CSS frameworks, how to build a UI design on Figma  and you can easily see my JavaScript learning progress on my freeCodeCamp profile.
-
+I'm a 24 years old programming frontend student who lives in Brazil and I'm siking myself in JavaScript algorithms and data structures.
 
 <h2> What do I do and What have I done? </h2>
 <ul>
  <li>Actually, I have a part time job and study programming;</li>
- <li>At moment, I'm working in a simple browser extension for all students called Valkyrium;</li>
+ <li>At moment, I'm working in a simple browser extension for students called Valkyrium;</li>
 <li>I attended the bachelor's and Physics degree course for 5 semesters.</li>
 </ul>
 
@@ -17,10 +16,10 @@ I'm a programming student who lives in Brazil and I love making and designing we
 class thaisaVieira {       
   const myTools = {  
     "ProgramingLanguage" : {"Javascript"},
-    "OtherLanguages" : {"HTML", "CSS"},
-    "Editor" : {"Vscode"},
+    "OtherProgramingTools" : {"HTML", "CSS", "SCSS"},
+    "Editor" : {"VScode"},
     "Platforms" : {"GNU/Linux", "Windows"},
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp"}
+    "OtherTools" : { "Git", "Figma"}
   };
 }
 ```
