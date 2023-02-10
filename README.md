@@ -1,5 +1,5 @@
 # Hello, World!
-◈ Sou estudante de Análise e Desenvolvimento de Sistemas (1º semestre), 24 anos.<br>◈ Atualmente estou trabalhando como Auxiliar de Farmácia I e aprimorando minhas habilidades em meu tempo livre, porém é do meu desejo utilizar das minhas habilidades para trazer mais produtividade e agilidade para o mundo e também para mim.<br>◈ Estou desenvolvendo uma extensão de navegador para auxiliar estudantes a obterem mais foco nos estudos.<br>◈ Gosto de exercitar minhas habilidades em sites como HackerEarth, CodeWars, freeCodeCamp e LeetCode.<br><br>◈ Temas do meu interesse: Linux, Node.JS, banco de dados, cybersegurança e análise de dados.<br><br>Procuro migrar para o mercado tech, por favor, verifique meus projetos e entre em contato.
+◈ Sou estudante de Análise e Desenvolvimento de Sistemas (1º semestre), 24 anos.<br>◈ Atualmente estou trabalhando como Auxiliar de Farmácia I e aprimorando minhas habilidades em meu tempo livre.<br>◈ Estou desenvolvendo uma extensão de navegador para estudantes obterem mais foco nos estudos.<br>◈ Gosto de exercitar minhas habilidades em sites como HackerEarth, CodeWars, freeCodeCamp e LeetCode.<br><br>◈ Temas do meu interesse: Linux, Node.JS, banco de dados, cybersegurança e análise de dados.<br><br>Procuro migrar para o mercado tech, por favor, verifique meus projetos e entre em contato.
 
 
 # 💻 Tech Stack:
@@ -18,10 +18,9 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=compiuter_thai)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thaisavieira&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
