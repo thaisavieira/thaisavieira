@@ -1,7 +1,7 @@
 # Hello, World! 
 ### Sou Thaísa Vieira, 24 anos, estudante do primeiro período de Análise e Desenvolvimento de Sistemas.
 <p>
-Entusiasta da tecnologia, curiosa, criativa com olhar crítico e buscando sempre estar desenvolvendo habilidades de resolução de problemas com forte interesse na área de Front-End, gosta de atividades multidisciplinares e também adora se aventurar na área de design e produto. Facilidade em comunicação, sensível e humana no entendimento dos processos do cliente.
+Entusiasta da tecnologia, curiosa, criativa com olhar crítico e buscando sempre estar desenvolvendo habilidades de resolução de problemas com forte interesse na área de Front-End, gosta de atividades multidisciplinares e também adora se aventurar na área de design. Facilidade em comunicação, sensível e humana no entendimento dos processos do cliente.
 </p>
 
 # Tech Stack:
