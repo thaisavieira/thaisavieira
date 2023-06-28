@@ -1,7 +1,11 @@
 # Hello, World! 
 <p>
-Busco estágio na área de Tecnologia da Informação, atualmente estou cursando Análise e Desenvolvimento de Sistema no sistema EAD. Também cursei 5 períodos de Bacharelado e Licenciatura em Física na UNESP de Rio Claro. Inglês Avançado (lê bem, escreve bem e fala bem). Espanhol Intermediário (lê bem, escreve bem, fala razoavelmente). Anteriormente, exerci o cargo de atendente de farmácia, aonde fui encarregada de atender clientes na loja, tirando possíveis dúvidas e auxiliando na escolha de produtos, participando também do processo de venda, abertura e fechamento de caixa, o que tem ajudado o meu desenvolvimento com soft-skills. Possuo familiaridade com ambiente de desenvolvimento Java e computação em nuvem na AWS.
-Gosto de escrever sobre ciência, sociedade e tecnologia como hobbie nas horas vagas.
+Sou Thaísa Vieira, estudante de Análise e Desenvolvimento de Sistemas, entusiasta da tecnologia e da ciência e busco estágio na área de Tecnologia da Informação.
+<ul>
+    <li>Durante 5 períodos pertenci a turma de Bacharelado e Licenciatura em Física na UNESP de Rio Claro de 2018, aonde pertenci ao grupo de pesquisa de Estado Sólido da Matéria. Com a Pandemia e a implementação do ensino EAD retornei a minha cidade natal para refletir sobre meu peri;</li>
+    <li>Possuo Inglês Avançado (lê bem, escreve bem e fala bem), Espanhol Intermediário (lê bem, escreve bem, fala razoavelmente) e Alemão Básico;</li>
+    <li>Gosto de escrever sobre ciência, sociedade e tecnologia como hobbie nas horas vagas.</li>
+</ul>
 </p>
 
 # Tech Stack:
