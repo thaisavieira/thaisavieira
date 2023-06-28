@@ -1,14 +1,22 @@
-# Hello, World! 
-<p>
-Sou Thaísa Vieira, estudante de Análise e Desenvolvimento de Sistemas, entusiasta da tecnologia e da ciência e busco estágio na área de Tecnologia da Informação.
-<ul>
-    <li>Durante 5 períodos pertenci a turma de Bacharelado e Licenciatura em Física na UNESP de Rio Claro de 2018, aonde pertenci ao grupo de pesquisa de Estado Sólido da Matéria. Com a Pandemia e a implementação do ensino EAD retornei a minha cidade natal para refletir sobre meu peri;</li>
-    <li>Possuo Inglês Avançado (lê bem, escreve bem e fala bem), Espanhol Intermediário (lê bem, escreve bem, fala razoavelmente) e Alemão Básico;</li>
-    <li>Gosto de escrever sobre ciência, sociedade e tecnologia como hobbie nas horas vagas.</li>
-</ul>
-</p>
+<h1 align="center">Hello World, eu sou Thaísa Vieira!</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, entusiasta da tecnologia e da ciência e atualmente buscando estágio na área de Tecnologia da Informação</h3>
 
-# Tech Stack:
+<h4>Sobre mim:</h4>
+<ul>
+    <li>Durante 5 períodos pertenci a turma de Bacharelado e Licenciatura em Física na UNESP de Rio Claro de 2018, aonde pertenci ao grupo de pesquisa de Estado Sólido da Matéria. Com a Pandemia e a implementação do ensino EAD retornei a minha cidade de origem e refleti sobre o meu perfil profissional e também sobre o meu plano de carreira, o que me levou a buscar novos caminhos;</li>
+    <li>Possuo Inglês Avançado (lê bem, escreve bem e fala bem), Espanhol Intermediário (lê bem, escreve bem, fala razoavelmente) e Alemão Básico;</li>
+    <li> Atualmente estou focada nos desafios da <a href="https://www.frontendmentor.io/profile/thaisavieira"> Frontend Mentor</a>;</li>
+    <li>Estou aprendendo sobre: <b>Angular</b>, <b>AWS</b>, <b>GIT</b>;</li>
+    <li>Escrevo artigos regularmente na plataforma <a href ="medium.com/@thaisavieira.tech"> Medium</a>;</li>
+    <li>Também é possível accompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
+</ul>
+
+<h3>Skills</h3>
+<hr>
+<h4>Linguagens de Programação</h4>
+<h4>Desenvolvimento Front-End</h4>
+<h4>DEVOPS</h4>
+<h4>Software</h4>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"</a> 
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a> 
