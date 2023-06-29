@@ -11,12 +11,12 @@
     <li>Também é possível accompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
 </ul>
 
-<h3>Skills</h3>
-<hr>
-<h4>Linguagens de Programação</h4>
-<h4>Desenvolvimento Front-End</h4>
-<h4>DEVOPS</h4>
-<h4>Software</h4>
+<h3>Tech Stack:</h3>
+<h4>Linguagens:</h4>
+<h4>Hosting/SaaS:</h4>
+<h4>Frameworks, Plataformas e Bibliotecas:</h4>
+<h4>Design:</h4>
+<h4>Outros:</h4>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"</a> 
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a> 
