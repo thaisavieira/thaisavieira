@@ -10,13 +10,7 @@
     <li>Escrevo artigos regularmente na plataforma <a href ="medium.com/@thaisavieira.tech"> Medium</a>;</li>
     <li>Também é possível accompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
 </ul>
-
-<h3>Tech Stack:</h3>
-<h4>Linguagens:</h4>
-<h4>Hosting/SaaS:</h4>
-<h4>Frameworks, Plataformas e Bibliotecas:</h4>
-<h4>Design:</h4>
-<h4>Outros:</h4>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"</a> 
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a> 
@@ -24,28 +18,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"</a> 
     <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"</a> 
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"</a>
-    <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"</a>
-    <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"</a> 
+    <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"</a>
+    <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"</a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"</a>	
 </p>
-<h2> Design: </h2>
- <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"</a> 
-    <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"</a> 
-</p>
-
-# Conecte-se comigo:
-<p align="center">
-   <a href="https://www.linkedin.com/in/tha%C3%ADsa-vieira/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"</a> 
-  <a href="https://twitter.com/compiuter_thai"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"</a> 
-  <a href="https://dev.to/thaisavieira"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"</a> 
-</p>
-
- # Social:
- <p align="center">
-    <a href="https://codepen.io/thaisavieira"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"</a> 
-    <a href="https://www.codewars.com/users/thaielha"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"</a> 
-    <a href="https://leetcode.com/thaisavieira/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</a> 
-</p>
-     
-
 
