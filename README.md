@@ -10,7 +10,7 @@
     <li>Escrevo artigos regularmente na plataforma <a href ="medium.com/@thaisavieira.tech"> Medium</a>;</li>
     <li>Também é possível accompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
 </ul>
-<h3 align="center">Tech Stack</h3>
+<h3>Tech Stack</h3>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"</a> 
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a> 
