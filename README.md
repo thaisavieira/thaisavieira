@@ -8,8 +8,9 @@
     <li> Atualmente estou focada nos desafios da <a href="https://www.frontendmentor.io/profile/thaisavieira"> Frontend Mentor</a>;</li>
     <li>Estou aprendendo sobre: <b>Angular</b>, <b>AWS</b>, <b>GIT</b>;</li>
     <li>Escrevo artigos regularmente na plataforma <a href ="medium.com/@thaisavieira.tech"> Medium</a>;</li>
-    <li>Também é possível accompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
+    <li>Também é possível acompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
 </ul>
+
 <h3>Tech Stack</h3>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"</a> 
