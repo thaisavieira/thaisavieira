@@ -3,8 +3,7 @@
 
 <h4>Sobre mim:</h4>
 <ul>
-    <li>Durante 5 períodos pertenci a turma de Bacharelado e Licenciatura em Física na UNESP de Rio Claro de 2018, aonde pertenci ao grupo de pesquisa de Estado Sólido da Matéria. Com a Pandemia e a implementação do ensino EAD retornei a minha cidade de origem e refleti sobre o meu perfil profissional e também sobre o meu plano de carreira, o que me levou a buscar novos caminhos;</li>
-    <li>Possuo Inglês Avançado (lê bem, escreve bem e fala bem), Espanhol Intermediário (lê bem, escreve bem, fala razoavelmente) e Alemão Básico;</li>
+    <li>Tenho 25 anos, carteira de habilitação tipo B, atualmente estou cursando o terceiro período do curso de Análise e Desenvolvimento de Sistemas via EAD, o que me permite flexibilidade para trabalhar/estagiar. Possuo experiência em atendimento ao público, facilidade em comunicação ,criatividade para solucionar problemas, inglês nível B2, familiaridade com ambiente de desenvolvimento Java e computação em nuvem na AWS. Gosto de escrever como hobbie nas horas vagas;</li>
     <li> Atualmente estou focada nos desafios da <a href="https://www.frontendmentor.io/profile/thaisavieira"> Frontend Mentor</a>;</li>
     <li>Estou aprendendo sobre: <b>Angular</b>, <b>AWS</b>, <b>GIT</b>;</li>
     <li>Escrevo artigos regularmente na plataforma <a href ="medium.com/@thaisavieira.tech"> Medium</a>;</li>
