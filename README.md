@@ -5,7 +5,7 @@
 <ul>
     <li>Tenho 25 anos, carteira de habilitação tipo B, atualmente estou cursando o terceiro período do curso de Análise e Desenvolvimento de Sistemas via EAD, o que me permite flexibilidade para trabalhar/estagiar. Possuo experiência em atendimento ao público, facilidade em comunicação ,criatividade para solucionar problemas, inglês nível B2, familiaridade com ambiente de desenvolvimento Java e computação em nuvem na AWS. Gosto de escrever como hobbie nas horas vagas;</li>
     <li> Atualmente estou focada nos desafios da <a href="https://www.frontendmentor.io/profile/thaisavieira"> Frontend Mentor</a>;</li>
-    <li>Estou aprendendo sobre: <b>Angular</b>, <b>AWS</b>, <b>GIT</b>;</li>
+    <li>Estou aprendendo sobre: <b>Fundamentos de Programação Orientada a Objetos com Java</b>;</li>
     <li>Escrevo artigos regularmente na plataforma <a href ="medium.com/@thaisavieira.tech"> Medium</a>;</li>
     <li>Também é possível acompanhar minha jornada de aprendizado na plataforma <a href ="dev.to/thaisavieira"> DEV Community</a>;</li>
 </ul>
