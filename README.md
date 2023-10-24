@@ -17,13 +17,11 @@
 
 ### Linguagem de Programação:
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"</a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"</a>
 </p>
 
 ## Conecte-se comigo:
 <p align="center">
-    <a href="https://www.hackerrank.com/thaiCoelha"><img src="https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/thaisa-vieira/"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=whit"</a>
-    <a href="https://twitter.com/compiuter_thai"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=Twitter&logoColor=white"</a>
+    <a href="https://www.hackerrank.com/thaiCoelha" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/thaisa-vieira-tutini/" target="blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=whit"</a>
 </p>
