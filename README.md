@@ -15,7 +15,7 @@
 - Entusiasta da tecnologia e da ciência;
 - Estudante de <a href="https://descomplica.com.br/blog/analise-desenvolvimento-de-sistemas-grade-curricular/ "Análise e Desenvolvimento de Sistemas"> target = "_blank"> Análise e Desenvolvimento de Sistemas </a>;
 - Focando em fundamentos de programação Orientada a Objetos com Java;
-- É possível acompanhar minha jornada de aprendizado na plataforma [DEV Community](http://dev.to/thaisavieira "DEV Community") e ler sobre assuntos diversos no meu [Medium](http://medium.com/@thaisavieira.tech "Medium").
+- É possível acompanhar minha jornada de aprendizado na plataforma [DEV Community](http://dev.to/thaisavieira "DEV Community"){taget="_blank"} e ler sobre assuntos diversos no meu [Medium](http://medium.com/@thaisavieira.tech "Medium").
 
    <div>
    <a href="https://github.com/devemdobro">
