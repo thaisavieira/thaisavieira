@@ -3,8 +3,11 @@
   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 <ul>
-    <li>Estudante de <a href="https://descomplica.com.br/blog/analise-desenvolvimento-de-sistemas-grade-curricular/" target = "_blank">Análise e Desenvolvimento de Sistemas </a>;
-</li>
+    <li>Inglês nível B2;</li>
+    <li>Entusiasta da tecnologia e da ciência;</li>
+    <li>Estudante de <a href="https://descomplica.com.br/blog/analise-desenvolvimento-de-sistemas-grade-curricular/" target = "blank">Análise e Desenvolvimento de Sistemas </a>;</li>
+    <li>Atualmente estou focada em aprender a base do HTML e CSS intermediários e pratico exercícios de JavaScript com o auxílio do FreeCodeCamp;</li>
+    <li>
 </ul>
 
 
