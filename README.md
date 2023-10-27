@@ -1,28 +1,5 @@
-#  Hello World, eu sou Thaísa Vieira!
-### Sobre mim:
-  <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-<ul>
-    <li>Inglês nível B2;</li>
-    <li>Entusiasta da tecnologia e da ciência;</li>
-    <li>Estudante de <a href="https://descomplica.com.br/blog/analise-desenvolvimento-de-sistemas-grade-curricular/" target = "blank">Análise e Desenvolvimento de Sistemas </a>;</li>
-    <li>Atualmente estou focada em aprender a base do HTML e CSS intermediários e pratico exercícios de JavaScript com o auxílio do FreeCodeCamp;</li>
-    <li>
-</ul>
-
-
--  Inglês nível B2;
-- Entusiasta da tecnologia e da ciência;
-- Estudante de <a href="https://descomplica.com.br/blog/analise-desenvolvimento-de-sistemas-grade-curricular/ "Análise e Desenvolvimento de Sistemas"> target = "_blank"> Análise e Desenvolvimento de Sistemas </a>;
-- Focando em fundamentos de programação Orientada a Objetos com Java;
-- É possível acompanhar minha jornada de aprendizado na plataforma [DEV Community](http://dev.to/thaisavieira "DEV Community"){taget="_blank"} e ler sobre assuntos diversos no meu [Medium](http://medium.com/@thaisavieira.tech "Medium").
-
-   <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
+# Olá, eu sou Thaísa Vieira! 👋
+Trabalho meio período no setor de varejo atuando como atendente em uma loja de vestuário e acessórios de moda, estou cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas modelo EAD na instituição Descomplica. No momento meu foco de estudos está em aprender algoritmos e estrutura de dados em JavaScript e melhorar a minha base de HTML e CSS com projetos do FrontEnd Mentor. Em minha rotina diária de estudos também continuo a práticar a escrita, leitura e fala em Inglês, aonde me encontro no nível B2.
 ## Tech Stack:
 ### Linguagens de Marcação e Estilo:
 <p align="center">
@@ -32,13 +9,21 @@
     <a href="#"><img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=white"</a>
 </p>
 
-### Linguagem de Programação:
+<h3>Linguagem de Programação:</h3>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"</a>
 </p>
-
-## Conecte-se comigo:
+      
+<div>
+    <p align="center">
+      <a href="https://github.com/thaisavieira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&langs_count=6&theme=midnight-purple"/>
+</div>
+</p>
+<h2>Conecte-se comigo:</h2>
 <p align="center">
-    <a href="https://www.hackerrank.com/thaiCoelha" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/thaisa-vieira-tutini/" target="blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=whit"</a>
+    <a href="https://www.linkedin.com/in/thaisa-vieira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=whit"</a>
+    <a href="http://dev.to/thaisavieira" target="_blank"><img src="https://img.shields.io/badge/dev-000?style=for-the-badge&logo=dev&logoColor=whit"</a>
+    <a href="http://medium.com/@thaisavieira.tech" target="_blank"><img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=whit"</a>
 </p>
