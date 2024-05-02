@@ -26,5 +26,4 @@ Formalmente, estou cursando o terceiro semestre de Análise e Desenvolvimento de
 <p align="center">
     <a href="https://www.linkedin.com/in/thaisa-vieira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=whit"</a>
     <a href="http://dev.to/thaisavieira" target="_blank"><img src="https://img.shields.io/badge/dev-000?style=for-the-badge&logo=dev&logoColor=whit"</a>
-    <a href="http://medium.com/@thaisavieira.tech" target="_blank"><img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=whit"</a>
 </p>
