@@ -1,6 +1,11 @@
 # Olá, eu sou Thaísa Vieira! 👋
-Tive meu primeiro contato com o mundo tecnológico ainda criança por meio de um computador Metron, monitor CRT, mouse de bolinha e com o sistema operacional Windows 95 e ainda me lembro da sensação de ver uma máquina tão impressionante como aquela. Cresci rodeada por videogames, construindo temas simples para meu Tumblr pessoal na adolescência por pura curiosidade. Sempre em contato com tecnologia, ciência e inovação, o que me levou a cursar Bacharelado e Licenciatura em Física pela Unesp de Rio Claro no ano de 2018, porém tive que interromper a graduação por conta da pandemia de COVID-19 e os problemas que vieram junto com ela. Durante os períodos de isolamento participei de alguns eventos de programação e decidi estudar mais sobre tecnologia.
-Formalmente, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas pela faculdade digital Descomplica e utilizo a grade da Open Source University Society(OSSU) de Ciências da Computação como complemento e cursos como DevQuest para desenvolver habilidades necessárias. Gosto de utilizar ferramentas como Frontend Mentor, DevChallenges, freeCodeCamp e Full Stack Open para praticar. Tenho como hobby escrever em meu blog pessoal na Dev Community.
+I was a Physics student (bachelor's and licentiate's degree) at UNESP in Rio Claro, but I had to interrupt my studies due to the pandemic. Fortunately, I maintained my curiosity and desire always to continue to learn.
+Currently, I am studying Computer Science using the![OSSU](https://ossu.firebaseapp.com/#/) (Open Source Society University) and [![UBL](https://ulivre.dev/)] (Universidade Brasileira Livre) programs. Unfortunately, these courses don't offer a formal diploma, so I am studying Systems Analysis and Development at Descomplica EAD university(2023-2025).
+As a self-taught student, I use several tools that help me build/reinforce my knowledge, as example to exercise my skills I like to practice logic on websites like CodeWars, where I have Python as my main language. Also, I dabble in JavaScript, C#, .NET, and, sometimes, to satisfy my nostalgia from college, some things in Fortran. I also use websites like Frontend Mentor and DevChallenges to exercise/develop my front-end skills.
+As a hobby, I write for platforms like DEV Community, where I'm a moderator, and, also on Coder Legion, where I'm a guest writer. As well I also actively participate in communities on Discord, which for me works like a classroom.
+
+I'm looking for my first opportunity!
+
 ## Tech Stack:
 ### Linguagens de Marcação e Estilo:
 <p align="center">
