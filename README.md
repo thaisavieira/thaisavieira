@@ -5,15 +5,30 @@ I'm like to mention that I'm looking for my first opportunity.
 
 <h2 align= "center">Tech Slack</h2>
 <h3>Languages</h3>
-<p align="center">
-
+    <p align="center">
+        <a href=#><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+        <a href=#><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+        <a href=#><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"></a>
 </p>
 
+<h3>Libraries/Frameworks</h3>
+    <p align="center">
+        <a href=#><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+    </p>
+    
+<h3>Tools</h3>
+    <p align="center">
+        <a href=#><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    </p>
+    
 
-<h3>Linguagem de Programação:</h3>
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"</a>
-</p>
+
       
 <div>
     <p align="center">
