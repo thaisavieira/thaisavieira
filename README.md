@@ -14,7 +14,6 @@ I'm like to mention that I'm looking for my first opportunity.
 
 <h3>Libraries/Frameworks</h3>
     <p align="center">
-        <a href=#><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
         <a href=#><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
     </p>
     
@@ -26,19 +25,35 @@ I'm like to mention that I'm looking for my first opportunity.
         <a href=#><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
         <a href=#><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     </p>
-    
 
+<h2>Connect with me at:</h2>
 
-      
+<h3>Development Community</h3>
+    <p align="center">
+        <a href=https://www.codewars.com/users/eitathai><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
+        <a href=https://codepen.io/thaisavieira><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+    </p>
+<h3>Blogs</h3>
+    <p align="center">
+        <a href=https://dev.to/thaisavieira><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+        <a href=https://app.daily.dev/thaisavieira><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
+    </p>
+
+<h3>Social</h3>
+    <p align="center">
+        <a href=https://www.linkedin.com/in/thaisa-vieira/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href=https://techhub.social/@thaisa_vieira><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+    </p>
+<h2>Stats and Activity</h2>
 <div>
     <p align="center">
       <a href="https://github.com/thaisavieira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
 </div>
 </p>
-<h2>Conecte-se comigo:</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/thaisa-vieira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=whit"</a>
-    <a href="http://dev.to/thaisavieira" target="_blank"><img src="https://img.shields.io/badge/dev-000?style=for-the-badge&logo=dev&logoColor=whit"</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
