@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Thaísa Vieira</h1>      
 I was a Physics student (bachelor's and licentiate's degree) at UNESP in Rio Claro, but I had to interrupt my studies due to the pandemic.  Currently, I am studying Computer Science using the <a href = "https://github.com/ossu/computer-science"> OSSU (Open Source Society University) </a> and <a href = "https://github.com/Universidade-Livre"> UBL (Universidade Brasileira Livre)</a> programs. Unfortunately, these courses don't offer a formal diploma, so I am studying Systems Analysis and Development at Descomplica EAD University (2023-2025). As a self-taught student, I use several tools that help me build/reinforce my knowledge, as example to exercise my skills I like to practice logic on websites like CodeWars, where I have Python as my main language. Also, I dabble in JavaScript, C#, and .NET, and, sometimes, to satisfy my nostalgia from college, I do some things in Fortran. I also use websites like Frontend Mentor and DevChallenges to exercise/develop my front-end skills. As a hobby, I write for platforms like DEV Community, where I'm a moderator, and, also on Coder Legion, where I'm a guest writer.
 
-I'm like to mention that I'm looking for my first opportunity.
+I want to mention that I'm looking forward to my first opportunity.
 
 <h2 align= "center">Tech Slack</h2>
 <h3>Languages</h3>
@@ -44,16 +44,18 @@ I'm like to mention that I'm looking for my first opportunity.
         <a href=https://www.linkedin.com/in/thaisa-vieira/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href=https://techhub.social/@thaisa_vieira><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
     </p>
+
+ <h3>Email</h3>
+     <p align="center">
+        <a href="mailto:thaisa-vieira@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    </p>
+
+    
 <h2>Stats and Activity</h2>
 <div>
     <p align="center">
       <a href="https://github.com/thaisavieira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
 </div>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
