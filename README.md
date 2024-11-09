@@ -11,11 +11,6 @@
         <a href=#><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
         <a href=#><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"></a>
 </p>
-
-<h3>Libraries/Frameworks</h3>
-    <p align="center">
-        <a href=#><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-    </p>
     
 <h3>Tools</h3>
     <p align="center">
