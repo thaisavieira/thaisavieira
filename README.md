@@ -1,18 +1,9 @@
 <h1 align="center">Hello there, I'm Thaísa Vieira</h1>
 
-<p>I was a Physics student (bachelor's and licentiate's degree) at UNESP in Rio Claro, but I had to interrupt my studies due to the pandemic.  Currently, I am studying Computer Science using the <a href = "https://github.com/ossu/computer-science"> OSSU (Open Source Society University) </a> and <a href = "https://github.com/Universidade-Livre"> UBL (Universidade Brasileira Livre)</a> programs. As a self-taught student, I use several tools that help me build/reinforce my knowledge, as example to exercise my skills I like to practice logic on websites like CodeWars, where I have Python as my main language. Also, I dabble in JavaScript, C#, and .NET, and, sometimes, to satisfy my nostalgia from college, I do some things in Fortran. I also use websites like Frontend Mentor and DevChallenges to exercise/develop my front-end skills. As a hobby, I write for platforms like DEV Community, where I'm a moderator, and, also on Coder Legion, where I'm a guest writer.</p>
-
-<p align="center">I'm looking forward to my first opportunity!</p>
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/thaisavieira"
-    width="600"
-    height="160"
-  />
-</a>
+<p>Passionate about science and technology, always searching for learning. I started my academic career with a bachelor's degree in Physics from UNESP, taking my first steps with tools such as MATLAB, making several lists of linear algebra using Fortran, and writing analyses and reports with LaTeX based on laboratory experiments. Currently, I study Computer Science through open-source projects such as <a href = "https://github.com/ossu/computer-science"> OSSU (Open Source Society University) </a> and <a href = "https://github.com/Universidade-Livre"> UBL (Universidade Brasileira Livre)</a>. As a hobby I like to participate in platforms like DEV Community, where I collaborate as a moderator, and also Code Legion, where I am a guest writer. I am looking for opportunities to work with the Python language and also work in the data area.
   
+Ps.: On the cover of the profile we have the philosopher Hypatia of Alexandria, the first woman documented as a mathematician in history, who lived for science and died for ignorance. One of the historical figures that I have great admiration for and bring as inspiration.
+
 
 <h2 align= "center">Tech Slack</h2>
 <h3>Languages</h3>
