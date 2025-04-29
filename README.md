@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">Hello there, I'm Thaísa Vieira</h1>
 
-<p>Passionate about science and technology, always searching for learning. I started my academic career with a bachelor's degree in Physics from UNESP, taking my first steps with tools such as MATLAB, making several lists of linear algebra using Fortran, and writing analyses and reports with LaTeX based on laboratory experiments. Currently, I study Computer Science through open-source projects such as <a href = "https://github.com/ossu/computer-science"> OSSU (Open Source Society University) </a> and <a href = "https://github.com/Universidade-Livre"> UBL (Universidade Brasileira Livre)</a>. As a hobby I like to participate in platforms like DEV Community, where I collaborate as a moderator, and also Code Legion, where I am a guest writer. I am looking for opportunities to work with the Python language and also work in the data area.
+<p>Passionate about science and technology, always searching for learning. I started my academic career with a bachelor's degree in Physics from UNESP, taking my first steps with tools such as MATLAB, making several lists of linear algebra using Fortran, and writing analyses and reports with LaTeX based on laboratory experiments. Currently, I study Computer Science through open-source projects such as <a href = "https://github.com/ossu/computer-science"> OSSU (Open Source Society University) </a> and <a href = "https://github.com/Universidade-Livre"> UBL (Universidade Brasileira Livre)</a>. As a hobby, I like to participate in platforms like DEV Community, where I collaborate as a moderator, and also Code Legion, where I am a guest writer. I am looking for an opportunity to apply my knowledge and, of course, learn.
   
-Ps.: On the cover of the profile we have the philosopher Hypatia of Alexandria, the first woman documented as a mathematician in history, who lived for science and died for ignorance. One of the historical figures that I have great admiration for and bring as inspiration.
+Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria, the first woman documented as a mathematician in history, who lived for science and died for ignorance. One of the historical figures that I greatly admire and bring as inspiration.
 
 
 <h2 align= "center">Tech Slack</h2>
