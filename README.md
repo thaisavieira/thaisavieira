@@ -2,9 +2,9 @@
         <a href=https://en.wikipedia.org/wiki/Hypatia><img src="https://media.discordapp.net/attachments/1290843633171566695/1338702572436983808/Untitled_design.png?ex=68118eed&is=68103d6d&hm=65aab7386a318dd2844c51cf09f62e3a4568c2af1d732e361c95b54cdc85aa27&=&format=webp&quality=lossless&width=912&height=228"></a>
 <table align="center"><thead>
   <tr>
-    <td>LinkedIn</td>
+    <td><a href = 'https://www.linkedin.com/in/thaisa-vieira/' target = '_blank'>LinkedIn</a></td>
     <td>Dev.to Blog</td>
-    <td>Code Legion Blog</td>*
+    <td>Code Legion Blog</td>
     <td>Mathstodon.xyz</td>
   </tr></thead>
 </table>
