@@ -15,56 +15,36 @@
   
 Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria, the first woman documented as a mathematician in history, who lived for science and died for ignorance. One of the historical figures that I greatly admire and bring as inspiration.
 
+<h2 align="center">About me</h2>
+
+- 🔭 I’m currently working on **RPG text game and a digital garden**
+- 🌱 I’m currently learning **Intro to Machine Learning**
+- 👯 I’m looking to collaborate on **open source projects**
+- 📫 How to reach me **thaisa-vieira@outlook.com**
+- 📄 Know about my experiences: My resume link
+- ⚡ Fun fact: **I love cats and stay long hours in a bad position so they can stay comfortable.**
 
 <h2 align= "center">Tech Slack</h2>
-<h3>Languages</h3>
     <p align="center">
         <a href=#><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-        <a href=#><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-        <a href=#><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
         <a href=#><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"></a>
-</p>
-    
-<h3>Tools</h3>
-    <p align="center">
+        <a href=#><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=1"></a>
         <a href=#><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+        <a href=#><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
         <a href=#><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
         <a href=#><img src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white"></a>
-        <a href=#><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-        <a href=#><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-        <a href=#><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-    </p>
-
-<h2>Connect with me at:</h2>
-
-<h3>Development Community</h3>
-    <p align="center">
-        <a href=https://www.codewars.com/users/eitathai><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
-        <a href=https://codepen.io/thaisavieira><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-    </p>
-<h3>Blogs</h3>
-    <p align="center">
-        <a href=https://dev.to/thaisavieira><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-        <a href=https://app.daily.dev/thaisavieira><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
-    </p>
-
-<h3>Social</h3>
-    <p align="center">
-        <a href=https://www.linkedin.com/in/thaisa-vieira/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href=https://techhub.social/@thaisa_vieira><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
-    </p>
-
- <h3>Email</h3>
-     <p align="center">
-        <a href="mailto:thaisa-vieira@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    </p>
-
+</p>
     
-<h2>Stats and Activity</h2>
+
+
+<h2 align= "center">Stats and Activity</h2>
 <div>
     <p align="center">
       <a href="https://github.com/thaisavieira">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 </p>
+
+
