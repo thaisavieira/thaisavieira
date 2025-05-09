@@ -15,7 +15,7 @@
   
 Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria, the first woman documented as a mathematician in history, who lived for science and died for ignorance. One of the historical figures that I greatly admire and bring as inspiration.
 
-<h2 align="center">About me</h2>
+<h2 align="center">More about me</h2>
 
 - 🔭 I’m currently working on **RPG text game and a digital garden**
 - 🌱 I’m currently learning **Intro to Machine Learning**
