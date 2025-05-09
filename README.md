@@ -47,4 +47,3 @@ Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria
 </div>
 </p>
 
-![snake animation](https://github.com/<thaisavieira>/<thaisavieira>/blob/output/github-contribution-grid-snake2.svg)
