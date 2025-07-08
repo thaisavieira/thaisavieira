@@ -1,5 +1,5 @@
   <p align="center">
-        <a href=https://en.wikipedia.org/wiki/Hypatia><img src="https://media.discordapp.net/attachments/1290843633171566695/1338702572436983808/Untitled_design.png?ex=68118eed&is=68103d6d&hm=65aab7386a318dd2844c51cf09f62e3a4568c2af1d732e361c95b54cdc85aa27&=&format=webp&quality=lossless&width=912&height=228"></a>
+        <a href=https://en.wikipedia.org/wiki/Hypatia><img src="https://cdn.discordapp.com/attachments/1290843633171566695/1338702572436983808/Untitled_design.png?ex=686dd7ed&is=686c866d&hm=2f267a6f39d9bab7f0f03053ab1a58d6b782b8882aa31b4537aebd9a1ea9465b&"></a>
 <table align="center"><thead>
   <tr>
     <td><a href="https://www.linkedin.com/in/thaisa-vieira/" target="_blank">LinkedIn</a></td>
@@ -17,11 +17,11 @@ Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria
 
 <h2 align="center">More about me</h2>
 
-- 🔭 I’m currently working on **RPG text game and a digital garden**
+- 🔭 I’m currently working on **WoMakersCode's Bootcamp Business Intelligence**
 - 🌱 I’m currently learning **Intro to Machine Learning**
 - 👯 I’m looking to collaborate on **open source projects**
-- 📫 How to reach me **thaisa-vieira@outlook.com**
-- 📄 Know about my experiences: My resume link
+- 📫 How to reach me: **thaisa-vieira@outlook.com**
+- 📄 Know about my experiences: Resume link
 - ⚡ Fun fact: **I love cats and stay long hours in a bad position so they can stay comfortable.**
 
 <h2 align= "center">Tech Slack</h2>
@@ -41,9 +41,10 @@ Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria
 <h2 align= "center">Stats and Activity</h2>
 <div>
     <p align="center">
-      <a href="https://github.com/thaisavieira">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+      <a href="https://github.com/thaisavieira">      
+      <img height=190 src="https://github-readme-stats.vercel.app/api?username=thaisavieira&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github"/>
+      <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&theme=midnight-purple&layout=donut"/>
+</a>
 </div>
 </p>
 
