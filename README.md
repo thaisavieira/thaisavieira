@@ -46,5 +46,6 @@ Obs.: On the cover of the profile, we have the philosopher Hypatia of Alexandria
 </div>
 </p>
 
-<img src='https://github.com/thaisavieira/thaisavieira/blob/output/github-snake-dark.svg'/>
-
+<p align="center">
+  <img src='https://github.com/thaisavieira/thaisavieira/blob/output/github-snake-dark.svg'/>
+</p>
