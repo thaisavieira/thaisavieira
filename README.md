@@ -1,5 +1,5 @@
   <p align="center">
-        <a href=https://en.wikipedia.org/wiki/Hypatia><img src="https://media.discordapp.net/attachments/1290843633171566695/1338702572436983808/Untitled_design.png?ex=687669ad&is=6875182d&hm=6d5e4ea54c58fb6b212d5b3a4e2764519650735babd46069614961163a39d607&=&format=webp&quality=lossless&width=912&height=228"></a>
+        <a href=https://en.wikipedia.org/wiki/Hypatia><img src="https://raw.githubusercontent.com/thaisavieira/thaisavieira/refs/heads/main/image.png"></a>
 <table align="center"><thead>
   <tr>
     <td><a href="https://www.linkedin.com/in/thaisa-vieira/" target="_blank">LinkedIn</a></td>
