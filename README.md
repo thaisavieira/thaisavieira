@@ -5,7 +5,6 @@
     <td><a href="https://www.linkedin.com/in/thaisa-vieira/" target="_blank">LinkedIn</a></td>
     <td><a href="https://dev.to/thaisavieira" target="_blank">Dev.to Blog</a></td>
     <td><a href="https://coderlegion.com/user/thaisavieira" target="_blank">Code Legion Blog</a></td>
-    <td><a href="https://mathstodon.xyz/@thaisavieira" target="_blank">Mathstodon.xyz</a></td>
   </tr></thead>
 </table>
 </p>
