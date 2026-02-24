@@ -69,6 +69,18 @@ Study notes, summaries, and reflections based on the book and Systems Informatio
   <img src="https://img.shields.io/badge/Software%20Engineering-2E8B57?style=for-the-badge" />
 </p>
 
+<h2 align="center">Publications</h2>
+
+<div align="center">
+  <h3>Article on CoderLegion</h3>
+  <p>
+    A reflection on technology, creativity, and learning on the modern web. <br>
+    <b>Read here:</b> 
+    <a href="https://coderlegion.com/user/thaisavieira">
+      coderlegion.com/user/thaisavieira
+    </a>
+  </p>
+</div>
 
 <h2 align= "center">Stats and Activity</h2>
 <div>
