@@ -9,7 +9,7 @@
 </table>
 </p>
 <h1 align="center">Hello there, I'm Thaísa Vieira</h1>
-<h3 align="center">Systems Analysis & Development Student | Python Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Systems Analysis & Development Student | Python & Go Enthusiast | Lifelong Learner</h3>
 <p>Passionate about science, technology, and problem-solving. Currently exploring different areas in software development through Python projects, academic studies, and open-source learning.
 I began my academic career with a bachelor's degree in Physics from UNESP, where I developed logical and analytical thinking. During this period, I worked with tools such as MATLAB, solved linear algebra problems using Fortran, and wrote technical reports with LaTeX based on laboratory experiments. 
 Today, I am a Systems Analysis and Development student at <a href = 'https://www.fatecsorocaba.edu.br/'>Fatec Sorocaba</a>, complementing my education through open learning initiatives like <a href = "https://github.com/ossu/computer-science"> OSSU (Open Source Society University) </a> and <a href = "https://github.com/Universidade-Livre"> UBL (Universidade Brasileira Livre)</a>, as well as platforms such as Code Wars, Roadmap.sh, and Kaggle.
@@ -21,7 +21,7 @@ Obs.: The cover image features Hypatia of Alexandria, the first woman documented
 <h2 align="center">More about me</h2>
 
 - 🎓 Systems Analysis and Development Student at Fatec Sorocaba.
-- 🐍 Python Enthusiast.
+- 🐍 Python & Go Enthusiast.
 - 🧠 Strong analytical background.
 - 🌱 Interested in understanding how systems work and exploring different areas of technology and software development.
 - 🤝 Open to internship opportunities and open-source projects.
@@ -41,9 +41,7 @@ A collection of exercises focused on logic, algorithms, and problem-solving usin
 🔹 <b>Data Science Project</b>
 Exploratory analyses and experiments developed during my studies and practice with Python and data. <br> <a href="https://github.com/thaisavieira/wind_energy">🔗 View Repository</a>
 <br><br>
-🔹 <b>Systems Notes — "Desvendando Sistemas"</b>
-Study notes, summaries, and reflections based on the book and Systems Information classes. <br> <a href="https://github.com/thaisavieira/reading-notes-desvendando-sistemas">🔗 View Repository</a>
-</div>
+
 
 <h2 align="center"> Tech Stack</h2>
 
